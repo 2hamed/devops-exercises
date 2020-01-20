@@ -4615,6 +4615,15 @@ func main() {
 </summary><br><b>
 </b></details>
 
+#### Advanced
+
+<details>
+<summary>
+What are Goroutines in Go?
+</summary>
+Goroutines are functions or methods that run concurrently with other functions or methods. Goroutines can be thought of as light weight threads. The cost of creating a Goroutine is tiny when compared to a thread. Hence its common for Go applications to have thousands of Goroutines running concurrently.
+</details>
+
 ## Mongo
 
 <a name="mongo-beginner"></a>
